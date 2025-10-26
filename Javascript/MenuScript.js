@@ -198,6 +198,7 @@ function Queue(id,quantity,productName){
     },1000)
 }
 
-uploadPictures(table1,coffee,"../coffee/")
-uploadPictures(table2,nonCaffine,"../non caffine drink/")
-uploadPictures(table3,pastries,"../pastries/")
+uploadPictures(table1,coffee,"/coffee/")
+uploadPictures(table2,nonCaffine,"/non caffine drink/")
+uploadPictures(table3,pastries,"/pastries/")
+
