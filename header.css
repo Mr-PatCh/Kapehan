@@ -96,5 +96,7 @@ footer{
     text-align: center;
     color: azure;
     padding: 15px, 0;
+    position: fixed;
 }
+
 
