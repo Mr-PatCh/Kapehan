@@ -20,7 +20,7 @@ header{
   padding: 20px 40px;                 
   color: antiquewhite;
   opacity: 100%;
-  position: fixed;
+  /* position: fixed; */
 }
 
 #ulo {
@@ -96,7 +96,8 @@ footer{
     text-align: center;
     color: azure;
     padding: 15px, 0;
-    position: fixed;
+  
 }
+
 
 
